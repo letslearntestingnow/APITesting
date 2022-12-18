@@ -1,0 +1,4072 @@
+{
+  "network": {
+    "company": [
+      "Nextbike GmbH"
+    ],
+    "href": "/v2/networks/visa-frankfurt",
+    "id": "visa-frankfurt",
+    "location": {
+      "city": "Frankfurt",
+      "country": "DE",
+      "latitude": 50.1072,
+      "longitude": 8.66375
+    },
+    "name": "VISA",
+    "stations": [
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381494",
+            "381466",
+            "381245",
+            "381198",
+            "381180",
+            "381109",
+            "381072",
+            "380918",
+            "380911",
+            "380883",
+            "380801",
+            "380610",
+            "380387",
+            "380340",
+            "380316",
+            "380215",
+            "380194"
+          ],
+          "number": "4245",
+          "uid": "896"
+        },
+        "free_bikes": 17,
+        "id": "fb84608abfd17c82a4e00d406fa6193f",
+        "latitude": 50.113124,
+        "longitude": 8.678609,
+        "name": "Hauptwache",
+        "timestamp": "2022-12-17T16:30:55.025000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381446",
+            "381283",
+            "381193",
+            "381070",
+            "380917",
+            "380835",
+            "380659",
+            "380580",
+            "380509",
+            "380442",
+            "380420",
+            "380099",
+            "380068",
+            "380067"
+          ],
+          "number": "4244",
+          "uid": "1572"
+        },
+        "free_bikes": 14,
+        "id": "93d295d2c1da4aa73398c30e60917df6",
+        "latitude": 50.114837,
+        "longitude": 8.672574,
+        "name": "Fressgasse / Neue Mainzer Str.",
+        "timestamp": "2022-12-17T16:30:55.026000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381213",
+            "381148",
+            "381113",
+            "380988",
+            "380512",
+            "380486",
+            "380474",
+            "380295"
+          ],
+          "number": "4250",
+          "uid": "1640"
+        },
+        "free_bikes": 8,
+        "id": "5313c629cc501e6b70f039f2c82593e9",
+        "latitude": 50.123068,
+        "longitude": 8.69268,
+        "name": "Friedberger Platz / Caf\u00e9 Harveys",
+        "timestamp": "2022-12-17T16:30:55.026000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380910"
+          ],
+          "number": "4251",
+          "uid": "3364"
+        },
+        "free_bikes": 1,
+        "id": "d692af370fdb85023b023a6dbde85438",
+        "latitude": 50.122879,
+        "longitude": 8.701279,
+        "name": "H\u00f6henstra\u00dfe / Berger Str.",
+        "timestamp": "2022-12-17T16:30:55.029000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381343",
+            "381117",
+            "380924",
+            "380549",
+            "380538",
+            "380521",
+            "380458",
+            "380430",
+            "380262"
+          ],
+          "number": "4262",
+          "uid": "7634"
+        },
+        "free_bikes": 9,
+        "id": "f78f81dbf93e3ff27994cd5e6c346096",
+        "latitude": 50.105345,
+        "longitude": 8.678008,
+        "name": "Schaumainkai / Schweizer Str.",
+        "timestamp": "2022-12-17T16:30:55.032000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381146",
+            "381089",
+            "381045",
+            "380731",
+            "380697",
+            "380191",
+            "380134"
+          ],
+          "number": "4261",
+          "uid": "7647"
+        },
+        "free_bikes": 7,
+        "id": "2555b12a58ef586d50dcdfbf07c3b4e5",
+        "latitude": 50.101915,
+        "longitude": 8.681114,
+        "name": "Schweizer Platz / Diesterwegstr.",
+        "timestamp": "2022-12-17T16:30:55.033000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381517",
+            "381378",
+            "381321",
+            "381083",
+            "380671",
+            "380528",
+            "380325",
+            "380271",
+            "380008"
+          ],
+          "number": "4160",
+          "uid": "10725"
+        },
+        "free_bikes": 9,
+        "id": "90046df57c2612405f96cecdd9587925",
+        "latitude": 50.12032,
+        "longitude": 8.651497,
+        "name": "Bockenheimer Warte/Carlo-Schmid-Platz",
+        "timestamp": "2022-12-17T16:30:55.035000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381239",
+            "380865",
+            "380587",
+            "380511",
+            "380495",
+            "380445",
+            "380375",
+            "380273"
+          ],
+          "number": "4242",
+          "uid": "29169"
+        },
+        "free_bikes": 8,
+        "id": "c489b39d625dbdd9455cad420db88f89",
+        "latitude": 50.10903,
+        "longitude": 8.674521,
+        "name": "Willy-Brandt-Platz / Neue Mainzer Str. ",
+        "timestamp": "2022-12-17T16:30:55.036000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381496",
+            "381158",
+            "380970",
+            "380943",
+            "380814",
+            "380531",
+            "380398",
+            "380353"
+          ],
+          "number": "4247",
+          "uid": "52745"
+        },
+        "free_bikes": 8,
+        "id": "00d18a90c9df1b9d08643c8ff47f7d4f",
+        "latitude": 50.115009,
+        "longitude": 8.687546,
+        "name": "Konstabler Wache / Conrad-Elektronik",
+        "timestamp": "2022-12-17T16:30:55.038000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381100",
+            "381021",
+            "380808",
+            "380537"
+          ],
+          "number": "4278",
+          "uid": "2913514"
+        },
+        "free_bikes": 4,
+        "id": "b4cd49853062035e9ce76bb9df58e760",
+        "latitude": 50.096199,
+        "longitude": 8.66089,
+        "name": "Uniklinikum",
+        "timestamp": "2022-12-17T16:30:55.050000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381110",
+            "380881",
+            "380857",
+            "380518",
+            "380489",
+            "380446"
+          ],
+          "number": "4212",
+          "uid": "4919399"
+        },
+        "free_bikes": 6,
+        "id": "bb35a01b099f82f0312fe5648635de77",
+        "latitude": 50.10711,
+        "longitude": 8.689225,
+        "name": "DJH Jugendherberge",
+        "timestamp": "2022-12-17T16:30:55.057000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381258",
+            "380922",
+            "380755",
+            "380578",
+            "380396",
+            "380291",
+            "380184"
+          ],
+          "number": "4213",
+          "uid": "4919422"
+        },
+        "free_bikes": 7,
+        "id": "0b84fbc54206b0e64c547aa6b56b1eaf",
+        "latitude": 50.101918,
+        "longitude": 8.691108,
+        "name": "Lokalbahnhof",
+        "timestamp": "2022-12-17T16:30:55.058000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381261",
+            "380663",
+            "380270"
+          ],
+          "number": "4254",
+          "uid": "4919975"
+        },
+        "free_bikes": 3,
+        "id": "f9a66a32cdfd39fccb5dfeb9090cc63c",
+        "latitude": 50.123591,
+        "longitude": 8.717281,
+        "name": "Eissporthalle/Kettelerallee",
+        "timestamp": "2022-12-17T16:30:55.067000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381454",
+            "381394",
+            "381368",
+            "381075",
+            "381001",
+            "380522",
+            "380171"
+          ],
+          "number": "4255",
+          "uid": "4919997"
+        },
+        "free_bikes": 7,
+        "id": "2b516273428a47450b6a0d15731569cb",
+        "latitude": 50.126528,
+        "longitude": 8.708392,
+        "name": "Bornheim Mitte",
+        "timestamp": "2022-12-17T16:30:55.068000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            ""
+          ],
+          "number": "4256",
+          "uid": "4920028"
+        },
+        "free_bikes": 0,
+        "id": "1cfb664e8f488d9c75a1dab8464d6810",
+        "latitude": 50.16374,
+        "longitude": 8.65376,
+        "name": "Freibad Eschersheim",
+        "timestamp": "2022-12-17T16:30:55.069000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381447",
+            "381400",
+            "381340",
+            "381218",
+            "381032",
+            "380927",
+            "380764",
+            "380756",
+            "380454",
+            "380371",
+            "380307"
+          ],
+          "number": "4188",
+          "uid": "5661841"
+        },
+        "free_bikes": 11,
+        "id": "1cd905ec51cc58d0a963eaac20677656",
+        "latitude": 50.124155,
+        "longitude": 8.669688,
+        "name": "Bremer Platz",
+        "timestamp": "2022-12-17T16:30:55.071000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381314",
+            "381271",
+            "381195",
+            "381079",
+            "380836",
+            "380829",
+            "380431",
+            "380402",
+            "380145"
+          ],
+          "number": "4191",
+          "uid": "5661876"
+        },
+        "free_bikes": 9,
+        "id": "54e74d4ea800ad172c7e8f60e384bdde",
+        "latitude": 50.114166,
+        "longitude": 8.669672,
+        "name": "Taunusanlage",
+        "timestamp": "2022-12-17T16:30:55.072000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381395",
+            "381281",
+            "381204",
+            "380686",
+            "380645",
+            "380085"
+          ],
+          "number": "4197",
+          "uid": "5661941"
+        },
+        "free_bikes": 6,
+        "id": "844978165cbc059ef46fd601af3a0433",
+        "latitude": 50.11698,
+        "longitude": 8.629106,
+        "name": "Voltastra\u00dfe / Franklinstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.077000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381099",
+            "380951",
+            "380869",
+            "380807",
+            "380449",
+            "380415",
+            "380312",
+            "381500",
+            "381512"
+          ],
+          "number": "4211",
+          "uid": "8741728"
+        },
+        "free_bikes": 9,
+        "id": "812603ef874c99b2c3ab151e52a159c7",
+        "latitude": 50.113155,
+        "longitude": 8.671565,
+        "name": "Eurotheum",
+        "timestamp": "2022-12-17T16:30:55.079000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381307",
+            "380975",
+            "380456",
+            "380246"
+          ],
+          "number": "4289",
+          "uid": "9342153"
+        },
+        "free_bikes": 4,
+        "id": "e4fedbef0b5c908591e552d73d6533b6",
+        "latitude": 50.12367,
+        "longitude": 8.63977,
+        "name": "H\u00fclya-Platz",
+        "timestamp": "2022-12-17T16:30:55.080000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381323",
+            "381047",
+            "380964",
+            "380583",
+            "380349"
+          ],
+          "number": "4229",
+          "uid": "9342526"
+        },
+        "free_bikes": 5,
+        "id": "6c9bd1763d912332c0a12a072a2f64b0",
+        "latitude": 50.127054,
+        "longitude": 8.671061,
+        "name": "Gis\u00e8le-Freund-Platz",
+        "timestamp": "2022-12-17T16:30:55.081000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381371",
+            "381370",
+            "381364",
+            "381359",
+            "380235",
+            "380209"
+          ],
+          "number": "4182",
+          "uid": "9343020"
+        },
+        "free_bikes": 6,
+        "id": "d6f378d39022d804af264ca47e626289",
+        "latitude": 50.11754,
+        "longitude": 8.64543,
+        "name": "Schlo\u00dfstra\u00dfe/ Robert-Mayer-Stra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.082000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381119",
+            "380588"
+          ],
+          "number": "4155",
+          "uid": "9843369"
+        },
+        "free_bikes": 2,
+        "id": "ff0c48d5cd27c383c63f1ebe4ee01ded",
+        "latitude": 50.097376,
+        "longitude": 8.664962,
+        "name": "Gartenstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.090000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381379",
+            "381249",
+            "381186",
+            "381159",
+            "381135",
+            "381130",
+            "381129",
+            "381094",
+            "381087",
+            "381085",
+            "381036",
+            "381014",
+            "381005",
+            "380992",
+            "380979",
+            "380973",
+            "380955",
+            "380952",
+            "380889",
+            "380745",
+            "380622",
+            "380582",
+            "380546",
+            "380542",
+            "380498",
+            "380488",
+            "380470",
+            "380463",
+            "380450",
+            "380395",
+            "380390",
+            "380250",
+            "380143",
+            "380079",
+            "380048",
+            "381501"
+          ],
+          "number": "4240",
+          "uid": "121962"
+        },
+        "free_bikes": 36,
+        "id": "7a0208717a718a2b7a36fefa3384444c",
+        "latitude": 50.107625,
+        "longitude": 8.664126,
+        "name": "Hauptbahnhof / Vorplatz",
+        "timestamp": "2022-12-17T16:30:55.039000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381280",
+            "381244",
+            "381241",
+            "381049",
+            "381013",
+            "380983",
+            "380888",
+            "380778",
+            "380751",
+            "380676",
+            "380409",
+            "380350",
+            "381524"
+          ],
+          "number": "4167",
+          "uid": "21496874"
+        },
+        "free_bikes": 13,
+        "id": "199b8648a0c471d959c27a5da8671c03",
+        "latitude": 50.098646,
+        "longitude": 8.649799,
+        "name": "Mainova Parkplatz",
+        "timestamp": "2022-12-17T16:30:55.098000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381197",
+            "380867",
+            "380742",
+            "380723",
+            "380391",
+            "380378"
+          ],
+          "number": "4166",
+          "uid": "21496771"
+        },
+        "free_bikes": 6,
+        "id": "43e5e137f9e8cd7a49f890e401990383",
+        "latitude": 50.118652,
+        "longitude": 8.632856,
+        "name": "Mainova Zentrale",
+        "timestamp": "2022-12-17T16:30:55.098000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381482",
+            "381409",
+            "381266",
+            "381162",
+            "381107",
+            "380987",
+            "380986",
+            "380939",
+            "380615",
+            "380573",
+            "380494"
+          ],
+          "number": "4217",
+          "uid": "4919603"
+        },
+        "free_bikes": 11,
+        "id": "22a51be0c8ae2594ba0644f5663d5095",
+        "latitude": 50.112608,
+        "longitude": 8.707169,
+        "name": "Ostbahnhof",
+        "timestamp": "2022-12-17T16:30:55.060000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381415",
+            "380716",
+            "380640",
+            "380427"
+          ],
+          "number": "4196",
+          "uid": "5661926"
+        },
+        "free_bikes": 4,
+        "id": "5beb19fdf718a95e1a9f2ccebc5934cc",
+        "latitude": 50.112453,
+        "longitude": 8.643767,
+        "name": "Messe Frankfurt/ S-Bahn",
+        "timestamp": "2022-12-17T16:30:55.076000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380441"
+          ],
+          "number": "4253",
+          "uid": "4919956"
+        },
+        "free_bikes": 1,
+        "id": "7b3db2d648355057dd53c21e11092e71",
+        "latitude": 50.1317,
+        "longitude": 8.7171,
+        "name": "Panoramabad",
+        "timestamp": "2022-12-17T16:30:55.066000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381516",
+            "381334",
+            "381320",
+            "380942",
+            "380799",
+            "380762",
+            "380564",
+            "380530"
+          ],
+          "number": "4282",
+          "uid": "8621705"
+        },
+        "free_bikes": 8,
+        "id": "244ec6b5ce1539aff18422981003599c",
+        "latitude": 50.138969,
+        "longitude": 8.670675,
+        "name": "Eschersheimer Landstra\u00dfe/Marbachweg",
+        "timestamp": "2022-12-17T16:30:55.078000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381222",
+            "381015",
+            "380914",
+            "380680",
+            "380602",
+            "380500",
+            "380293",
+            "380202"
+          ],
+          "number": "4283",
+          "uid": "9842412"
+        },
+        "free_bikes": 8,
+        "id": "7b7e36bb6d5a3890993f627f83f556ef",
+        "latitude": 50.128526,
+        "longitude": 8.646374,
+        "name": "Frauenfriedenskirche",
+        "timestamp": "2022-12-17T16:30:55.083000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380027"
+          ],
+          "number": "4290",
+          "uid": "30651507"
+        },
+        "free_bikes": 1,
+        "id": "720934deff7e4df269d1fafff1a2ee70",
+        "latitude": 50.136786,
+        "longitude": 8.646073,
+        "name": "Markus-Krankenhaus",
+        "timestamp": "2022-12-17T16:30:55.100000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380844",
+            "380545"
+          ],
+          "number": "4291",
+          "uid": "30651625"
+        },
+        "free_bikes": 2,
+        "id": "4a0f0e561c2ff70885097a0a89c85fd3",
+        "latitude": 50.108351,
+        "longitude": 8.629146,
+        "name": "Europaviertel/ Pariser Stra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.101000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380896",
+            "380893",
+            "380749",
+            "380377",
+            "380292"
+          ],
+          "number": "4292",
+          "uid": "30651687"
+        },
+        "free_bikes": 5,
+        "id": "e15c225544b3c64f213f7746d2160ca4",
+        "latitude": 50.128661,
+        "longitude": 8.711319,
+        "name": "Bornheim/ Hoher Brunnen",
+        "timestamp": "2022-12-17T16:30:55.101000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381459",
+            "381043",
+            "380717",
+            "380274"
+          ],
+          "number": "4158",
+          "uid": "9843305"
+        },
+        "free_bikes": 4,
+        "id": "54eb564c8c9813962b53de9d085f23ad",
+        "latitude": 50.108762,
+        "longitude": 8.694681,
+        "name": "Fl\u00f6\u00dferbr\u00fccke/ Oskar-von-Miller-Stra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.088000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            ""
+          ],
+          "number": "4165",
+          "uid": "34887635"
+        },
+        "free_bikes": 0,
+        "id": "1783218a5387c5bc9ca439d31660d00d",
+        "latitude": 50.068458,
+        "longitude": 8.651186,
+        "name": "Deutsche Bank Park / Stadion Osttrib\u00fcne",
+        "timestamp": "2022-12-17T16:30:55.102000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381317",
+            "381254",
+            "381114",
+            "380467",
+            "380298",
+            "380267"
+          ],
+          "number": "42004",
+          "uid": "14997045"
+        },
+        "free_bikes": 6,
+        "id": "b6f18fd9aca04124a9f45d66dd01f3cd",
+        "latitude": 50.10214,
+        "longitude": 8.61843,
+        "name": "AVIS - FRANKFURT CENTER",
+        "timestamp": "2022-12-17T16:30:55.096000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381269",
+            "381068",
+            "380908",
+            "380898",
+            "380866",
+            "380763",
+            "380701",
+            "380620",
+            "380279",
+            "380151",
+            "380133"
+          ],
+          "number": "4259",
+          "uid": "7644"
+        },
+        "free_bikes": 11,
+        "id": "81c68fcaed3e0a7ef23b9876f79d34fe",
+        "latitude": 50.122683,
+        "longitude": 8.645521,
+        "name": "Leipziger Str. / Markgrafenstr.",
+        "timestamp": "2022-12-17T16:30:55.033000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381448",
+            "381420",
+            "381291",
+            "381253",
+            "381115",
+            "381082",
+            "381071",
+            "381037",
+            "380904",
+            "380744",
+            "380702",
+            "380670",
+            "380603",
+            "380433",
+            "380309",
+            "380287"
+          ],
+          "number": "4246",
+          "uid": "2304"
+        },
+        "free_bikes": 16,
+        "id": "5b6c3242c13af0be4d69b23cfb41c79f",
+        "latitude": 50.110792,
+        "longitude": 8.681833,
+        "name": "R\u00f6mer / Touristeninformation",
+        "timestamp": "2022-12-17T16:30:55.027000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381331",
+            "381316",
+            "381278",
+            "381191",
+            "381030",
+            "381028",
+            "381003",
+            "380954",
+            "380901",
+            "380465",
+            "380448",
+            "380341",
+            "381511"
+          ],
+          "number": "4243",
+          "uid": "2612"
+        },
+        "free_bikes": 13,
+        "id": "5244b2b0d4d868c0474b7f75b7faa99e",
+        "latitude": 50.115329,
+        "longitude": 8.671153,
+        "name": "Opernplatz / Bockenheimer Landstr.",
+        "timestamp": "2022-12-17T16:30:55.028000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381498",
+            "381465",
+            "381301",
+            "381201",
+            "381122",
+            "381024",
+            "381010",
+            "380948",
+            "380944",
+            "380651",
+            "380623",
+            "380618",
+            "380608",
+            "380554",
+            "380524",
+            "380103"
+          ],
+          "number": "4249",
+          "uid": "7374"
+        },
+        "free_bikes": 16,
+        "id": "a3ca7513de80a574d85d24de695c93f1",
+        "latitude": 50.120324,
+        "longitude": 8.695657,
+        "name": "Merianplatz / Berger Str.",
+        "timestamp": "2022-12-17T16:30:55.030000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381040",
+            "380959",
+            "380923",
+            "380851",
+            "380673",
+            "380331"
+          ],
+          "number": "4258",
+          "uid": "7378"
+        },
+        "free_bikes": 6,
+        "id": "4fbd56e6c30144f849fed5bae769108d",
+        "latitude": 50.120031,
+        "longitude": 8.650269,
+        "name": "Bockenheimer Warte / Caf\u00e9 Extrablatt",
+        "timestamp": "2022-12-17T16:30:55.031000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381312",
+            "380757",
+            "380514",
+            "380506",
+            "380192",
+            "380051"
+          ],
+          "number": "4248",
+          "uid": "7648"
+        },
+        "free_bikes": 6,
+        "id": "65eddc1a4b6bc71f8e75c737375578bc",
+        "latitude": 50.115535,
+        "longitude": 8.698785,
+        "name": "Zoo / Alfred-Brehm-Platz",
+        "timestamp": "2022-12-17T16:30:55.034000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381329",
+            "381155",
+            "381093",
+            "381084",
+            "380476",
+            "380075"
+          ],
+          "number": "4241",
+          "uid": "42801"
+        },
+        "free_bikes": 6,
+        "id": "fe1fa0df29840b29652d0ef9a9303a97",
+        "latitude": 50.111948,
+        "longitude": 8.654126,
+        "name": "Messe / Festhalle / Eingang U-Bahn",
+        "timestamp": "2022-12-17T16:30:55.037000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381492",
+            "380929",
+            "380916",
+            "380634",
+            "380478",
+            "380436",
+            "380252",
+            "380004"
+          ],
+          "number": "4288",
+          "uid": "67722"
+        },
+        "free_bikes": 8,
+        "id": "83820c57c2f1c17cb1d2ec8ef6dcae3d",
+        "latitude": 50.091182,
+        "longitude": 8.686082,
+        "name": "Gro\u00dfer Hasenpfad/Appartments Johann Wolfgang",
+        "timestamp": "2022-12-17T16:30:55.039000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381120",
+            "381104",
+            "380862",
+            "380787",
+            "380173"
+          ],
+          "number": "4252",
+          "uid": "121963"
+        },
+        "free_bikes": 5,
+        "id": "b85eebde1d1851f884f19c11aad9e8e8",
+        "latitude": 50.128915,
+        "longitude": 8.692439,
+        "name": "Nibelungenplatz / Friedberger Landstr.",
+        "timestamp": "2022-12-17T16:30:55.040000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381319",
+            "380860",
+            "380734",
+            "380611",
+            "380596",
+            "381506",
+            "380471",
+            "380412",
+            "380296",
+            "380256"
+          ],
+          "number": "4238",
+          "uid": "122146"
+        },
+        "free_bikes": 10,
+        "id": "32e260e219cdde07dfb651e5acd0af77",
+        "latitude": 50.112969,
+        "longitude": 8.676619,
+        "name": "Ro\u00dfmarkt / Junghofstr. (Goetheplatz)",
+        "timestamp": "2022-12-17T16:30:55.041000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381227"
+          ],
+          "number": "4239",
+          "uid": "122155"
+        },
+        "free_bikes": 1,
+        "id": "527a44c1789877fe5f157fa5d49fb578",
+        "latitude": 50.1041,
+        "longitude": 8.664828,
+        "name": "Baseler Platz / Baseler Stra\u00dfe / Gutleutstr.",
+        "timestamp": "2022-12-17T16:30:55.042000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380933",
+            "380698",
+            "380369",
+            "380156"
+          ],
+          "number": "4237",
+          "uid": "122156"
+        },
+        "free_bikes": 4,
+        "id": "6e91f466105f4619ee4d59160ef545f9",
+        "latitude": 50.116512,
+        "longitude": 8.679725,
+        "name": "Eschenheimer Turm / U-Bahn",
+        "timestamp": "2022-12-17T16:30:55.043000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381433",
+            "381428",
+            "381284",
+            "381175",
+            "381173",
+            "380913",
+            "380886",
+            "380647",
+            "380126"
+          ],
+          "number": "4296",
+          "uid": "125751"
+        },
+        "free_bikes": 9,
+        "id": "cd3577bf85c01105517c61a152d3eb63",
+        "latitude": 50.111452,
+        "longitude": 8.709562,
+        "name": "Hotel B&B Frankfurt City-Ost / Hanauer Landstr.",
+        "timestamp": "2022-12-17T16:30:55.044000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381183",
+            "380907",
+            "380329"
+          ],
+          "number": "4286",
+          "uid": "212843"
+        },
+        "free_bikes": 3,
+        "id": "7cdde814608dbcf2d94f4e267e706a4b",
+        "latitude": 50.10858,
+        "longitude": 8.669511,
+        "name": "Hotel Ramada City / Weserstr. / Kaiserstr.",
+        "timestamp": "2022-12-17T16:30:55.045000Z"
+      },
+      {
+        "empty_slots": 6,
+        "extra": {
+          "bike_uids": [
+            "381298",
+            "380938",
+            "380725",
+            "380724",
+            "380682",
+            "380617",
+            "380499"
+          ],
+          "number": "4235",
+          "slots": 13,
+          "uid": "278856"
+        },
+        "free_bikes": 7,
+        "id": "ca3d9dd8af068eeb3ebdb035f583a4d9",
+        "latitude": 50.112611,
+        "longitude": 8.667151,
+        "name": "Trianon",
+        "timestamp": "2022-12-17T16:30:55.046000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381335",
+            "381313",
+            "380968",
+            "380931",
+            "380407",
+            "380394",
+            "380251"
+          ],
+          "number": "4285",
+          "uid": "352024"
+        },
+        "free_bikes": 7,
+        "id": "d02732045fc74ef820d8633419e9b1cf",
+        "latitude": 50.110699,
+        "longitude": 8.701172,
+        "name": "EZB/ Paul-Arnsberg-Platz",
+        "timestamp": "2022-12-17T16:30:55.046000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381483",
+            "381315",
+            "381288",
+            "381112",
+            "380453",
+            "380200"
+          ],
+          "number": "4257",
+          "uid": "353585"
+        },
+        "free_bikes": 6,
+        "id": "1435a154f4495bfe9ac46cf658c43a1d",
+        "latitude": 50.117163,
+        "longitude": 8.665735,
+        "name": "Bockenheimer Landstr. / Liebigstr.",
+        "timestamp": "2022-12-17T16:30:55.047000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381392",
+            "380689",
+            "380636",
+            "380625",
+            "380572",
+            "380559",
+            "380348",
+            "380318",
+            "380205"
+          ],
+          "number": "4276",
+          "uid": "706050"
+        },
+        "free_bikes": 9,
+        "id": "56c6c80a3b1ba5d44529352f4efa7e08",
+        "latitude": 50.136095,
+        "longitude": 8.664136,
+        "name": "USCC Haltestelle Platenstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.048000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381080"
+          ],
+          "number": "4295",
+          "uid": "1991242"
+        },
+        "free_bikes": 1,
+        "id": "7979ecc0320a0c09df2a0e5ff2b1768e",
+        "latitude": 50.108824,
+        "longitude": 8.65492,
+        "name": "Hotel Adina Apartment Frankfurt / Osloer Stra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.049000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381391",
+            "381133",
+            "380928",
+            "380711",
+            "380598",
+            "380432",
+            "380385"
+          ],
+          "number": "4200",
+          "uid": "4918944"
+        },
+        "free_bikes": 7,
+        "id": "4d4d853bf15f24fb5a761c4057f99f99",
+        "latitude": 50.119147,
+        "longitude": 8.640082,
+        "name": "Frankfurt Main West",
+        "timestamp": "2022-12-17T16:30:55.051000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381455",
+            "381358",
+            "381039",
+            "380703",
+            "380370",
+            "380226"
+          ],
+          "number": "4201",
+          "uid": "4918963"
+        },
+        "free_bikes": 6,
+        "id": "857abfaac699868fca7c05d379972767",
+        "latitude": 50.119412,
+        "longitude": 8.643601,
+        "name": "Adalbertstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.051000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381294",
+            "381510",
+            "380976",
+            "380795",
+            "380727",
+            "380704",
+            "380648",
+            "380425",
+            "380016"
+          ],
+          "number": "4204",
+          "uid": "4919187"
+        },
+        "free_bikes": 9,
+        "id": "290cba47910f5ec78fa736974ba74a7a",
+        "latitude": 50.101664,
+        "longitude": 8.628387,
+        "name": "Rebst\u00f6cker Stra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.053000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381248",
+            "381061",
+            "380241",
+            "380014"
+          ],
+          "number": "4205",
+          "uid": "4919215"
+        },
+        "free_bikes": 4,
+        "id": "d527115064274d5feca3b9b6f2a8d355",
+        "latitude": 50.102132,
+        "longitude": 8.636048,
+        "name": "Schwalbacher Stra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.054000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381178",
+            "381149",
+            "380884",
+            "380684",
+            "380519"
+          ],
+          "number": "4206",
+          "uid": "4919237"
+        },
+        "free_bikes": 5,
+        "id": "ecba3c5e41ae5d55492032b65a0f3e81",
+        "latitude": 50.091681,
+        "longitude": 8.653257,
+        "name": "Sandhofstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.055000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380966",
+            "380567",
+            "380361"
+          ],
+          "number": "4209",
+          "uid": "4919327"
+        },
+        "free_bikes": 3,
+        "id": "5d6332b3e4bef3dc7dfe3e265468c432",
+        "latitude": 50.100153,
+        "longitude": 8.668331,
+        "name": "Schaumainkai/Friedensbr\u00fccke",
+        "timestamp": "2022-12-17T16:30:55.056000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381507"
+          ],
+          "number": "4210",
+          "uid": "4919353"
+        },
+        "free_bikes": 1,
+        "id": "9500276b8a71fd9c42d9c8d12d6a2fac",
+        "latitude": 50.107055,
+        "longitude": 8.683346,
+        "name": "Schaumainkai/Schulstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.057000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381118",
+            "380811",
+            "381505",
+            "380664",
+            "380646",
+            "380579",
+            "380368",
+            "380343"
+          ],
+          "number": "4215",
+          "uid": "4919454"
+        },
+        "free_bikes": 8,
+        "id": "80b81e7bd08bc71bf9a120bddfa7d390",
+        "latitude": 50.106082,
+        "longitude": 8.720849,
+        "name": "Gerberm\u00fchle",
+        "timestamp": "2022-12-17T16:30:55.059000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381196",
+            "380503",
+            "380501",
+            "380222"
+          ],
+          "number": "4218",
+          "uid": "4919635"
+        },
+        "free_bikes": 4,
+        "id": "fcdcd58cb7c38944abb2a1c5d01c084d",
+        "latitude": 50.120891,
+        "longitude": 8.675471,
+        "name": "Gr\u00fcneburgweg/Eschersheimer Landstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.061000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381300",
+            "381211"
+          ],
+          "number": "4223",
+          "uid": "4919800"
+        },
+        "free_bikes": 2,
+        "id": "8b9ec76f806249c9bdcd7ddcf708cf70",
+        "latitude": 50.13136,
+        "longitude": 8.671582,
+        "name": "Eschersheimer Landstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.063000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381351"
+          ],
+          "number": "4234",
+          "uid": "4919909"
+        },
+        "free_bikes": 1,
+        "id": "29aa3600ca8c3f5d33972108a5b4faa9",
+        "latitude": 50.131343,
+        "longitude": 8.70542,
+        "name": "Comeniusstra\u00dfe/G\u00fcnthersburgpark",
+        "timestamp": "2022-12-17T16:30:55.065000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381252",
+            "381164",
+            "380240",
+            "380066",
+            "380022"
+          ],
+          "number": "4279",
+          "uid": "4928537"
+        },
+        "free_bikes": 5,
+        "id": "313ba241531b0fefa00ceb1277453dde",
+        "latitude": 50.114352,
+        "longitude": 8.649958,
+        "name": "Marriott Hotel / Hamburger Allee ",
+        "timestamp": "2022-12-17T16:30:55.070000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381074",
+            "380700",
+            "380627",
+            "380429",
+            "380242"
+          ],
+          "number": "4193",
+          "uid": "5661906"
+        },
+        "free_bikes": 5,
+        "id": "4227f8974c5cede201edc1783fcca1cf",
+        "latitude": 50.113592,
+        "longitude": 8.696339,
+        "name": "Ostendstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.074000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381295",
+            "380830",
+            "380777",
+            "380346",
+            "380210"
+          ],
+          "number": "4194",
+          "uid": "5661913"
+        },
+        "free_bikes": 5,
+        "id": "f1ef3092dba169c2ebd0022e48a82265",
+        "latitude": 50.11601,
+        "longitude": 8.695518,
+        "name": "Friedberger Anlage / Uhrt\u00fcrmchen",
+        "timestamp": "2022-12-17T16:30:55.075000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381434",
+            "381228",
+            "381188",
+            "381058",
+            "380941",
+            "380813",
+            "380232",
+            "380035"
+          ],
+          "number": "4293",
+          "uid": "9340596"
+        },
+        "free_bikes": 8,
+        "id": "d217d285abbf2c9fcbe78a3c750b1c83",
+        "latitude": 50.124984,
+        "longitude": 8.637287,
+        "name": "R\u00f6delheimer Stra\u00dfe ",
+        "timestamp": "2022-12-17T16:30:55.080000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381214",
+            "380985",
+            "380121"
+          ],
+          "number": "4280",
+          "uid": "9842463"
+        },
+        "free_bikes": 3,
+        "id": "2fda0e1d2f376bf0fe85e663ca95798d",
+        "latitude": 50.141761,
+        "longitude": 8.684006,
+        "name": "Marbachweg/ Sozialzentrum",
+        "timestamp": "2022-12-17T16:30:55.084000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381440",
+            "381230",
+            "380769",
+            "380544",
+            "380381",
+            "380332"
+          ],
+          "number": "4230",
+          "uid": "9842640"
+        },
+        "free_bikes": 6,
+        "id": "e607c4d19b181f48a43765d2235f1a08",
+        "latitude": 50.128557,
+        "longitude": 8.668476,
+        "name": "Max-Horkheimer-Stra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.084000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381476",
+            "381472",
+            "381287",
+            "381143",
+            "381141",
+            "381123",
+            "380619",
+            "380547",
+            "380406",
+            "380303"
+          ],
+          "number": "4186",
+          "uid": "9842945"
+        },
+        "free_bikes": 10,
+        "id": "38c2ffb0481d0ad4e99c6d827461008c",
+        "latitude": 50.122174,
+        "longitude": 8.680621,
+        "name": "Finkenhofstra\u00dfe/Oeder Weg",
+        "timestamp": "2022-12-17T16:30:55.085000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381229",
+            "381145",
+            "381002",
+            "380834",
+            "380497"
+          ],
+          "number": "4184",
+          "uid": "9843014"
+        },
+        "free_bikes": 5,
+        "id": "8b88a879b5c643dcf6969993589b87eb",
+        "latitude": 50.118108,
+        "longitude": 8.656358,
+        "name": "Beethovenplatz",
+        "timestamp": "2022-12-17T16:30:55.086000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381268",
+            "381182",
+            "380776",
+            "380713",
+            "380708",
+            "380469",
+            "380204"
+          ],
+          "number": "4180",
+          "uid": "9843028"
+        },
+        "free_bikes": 7,
+        "id": "cbd6725f41a1fc991dd53c264832c0f3",
+        "latitude": 50.118583,
+        "longitude": 8.651889,
+        "name": "Studierendenhaus an der Goethe-Universit\u00e4t",
+        "timestamp": "2022-12-17T16:30:55.087000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381106",
+            "380858",
+            "380540"
+          ],
+          "number": "4157",
+          "uid": "9843325"
+        },
+        "free_bikes": 3,
+        "id": "6a4209b42f23518b22d544a98da3b768",
+        "latitude": 50.118867,
+        "longitude": 8.688894,
+        "name": "Friedberger Landstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.088000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381172",
+            "381170",
+            "380624",
+            "380379",
+            "380284",
+            "380007"
+          ],
+          "number": "4156",
+          "uid": "9843357"
+        },
+        "free_bikes": 6,
+        "id": "aa20a35f4b43caeaa0206b4f6ce95f76",
+        "latitude": 50.10441,
+        "longitude": 8.690094,
+        "name": "Affentorplatz",
+        "timestamp": "2022-12-17T16:30:55.089000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381365"
+          ],
+          "number": "4132",
+          "uid": "9843566"
+        },
+        "free_bikes": 1,
+        "id": "167c21dcf8330af7750d95081811986c",
+        "latitude": 50.122112,
+        "longitude": 8.686066,
+        "name": "Musterschule",
+        "timestamp": "2022-12-17T16:30:55.092000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380969"
+          ],
+          "number": "4131",
+          "uid": "9843633"
+        },
+        "free_bikes": 1,
+        "id": "6941e09580f25c76f4a5121dd97fe08f",
+        "latitude": 50.125765,
+        "longitude": 8.679596,
+        "name": "Holzhausenschl\u00f6sschen",
+        "timestamp": "2022-12-17T16:30:55.093000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381497",
+            "381270",
+            "380523",
+            "380116"
+          ],
+          "number": "4129",
+          "uid": "9843695"
+        },
+        "free_bikes": 4,
+        "id": "3e615b330f4e4aa42cd4e6077666b7d1",
+        "latitude": 50.103749,
+        "longitude": 8.674253,
+        "name": "Schaumainkai/ D\u00fcrerstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.094000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381422",
+            "381350",
+            "380926",
+            "380452",
+            "380358"
+          ],
+          "number": "4304",
+          "uid": "11036794"
+        },
+        "free_bikes": 5,
+        "id": "23060ab1235fc12774ea376121ee0831",
+        "latitude": 50.101647,
+        "longitude": 8.663514,
+        "name": "Westhafenplatz",
+        "timestamp": "2022-12-17T16:30:55.095000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380699"
+          ],
+          "number": "4231",
+          "uid": "35355042"
+        },
+        "free_bikes": 1,
+        "id": "2663736c31d88e1012058bb7625c2101",
+        "latitude": 50.11879,
+        "longitude": 8.638789,
+        "name": "Westbahnhof/ Solmsstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.103000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381265",
+            "381091",
+            "381046",
+            "380892",
+            "380507",
+            "380460",
+            "380440",
+            "380397",
+            "380160"
+          ],
+          "number": "4130",
+          "uid": "9843677"
+        },
+        "free_bikes": 9,
+        "id": "06e919f50b7b361a8944d71fb59a779d",
+        "latitude": 50.106254,
+        "longitude": 8.695469,
+        "name": "Walther-von-Cronberg Platz",
+        "timestamp": "2022-12-17T16:30:55.094000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381373",
+            "381152",
+            "381137",
+            "380400",
+            "380281",
+            "380276"
+          ],
+          "number": "4222",
+          "uid": "44536851"
+        },
+        "free_bikes": 6,
+        "id": "ff31a2f905af824b7249fecc980331a6",
+        "latitude": 50.101748,
+        "longitude": 8.553479,
+        "name": "Lindner Congress Hotel",
+        "timestamp": "2022-12-17T16:30:55.127000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381460",
+            "381441",
+            "381403",
+            "381342",
+            "381132",
+            "381096",
+            "381062",
+            "380925",
+            "380712",
+            "380050"
+          ],
+          "number": "4128",
+          "uid": "44415492"
+        },
+        "free_bikes": 10,
+        "id": "68424316f2d7a43cbaca1223c52710de",
+        "latitude": 50.106718,
+        "longitude": 8.692787,
+        "name": "Frankensteiner Platz",
+        "timestamp": "2022-12-17T16:30:55.103000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381430",
+            "381250",
+            "380479",
+            "380248"
+          ],
+          "number": "4127",
+          "uid": "44415657"
+        },
+        "free_bikes": 4,
+        "id": "29fce501f0191aa40a6c5db241c1112a",
+        "latitude": 50.09761,
+        "longitude": 8.6799,
+        "name": "Hedderichstr./Oppenheimer Landstr.",
+        "timestamp": "2022-12-17T16:30:55.104000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380765",
+            "380604",
+            "380566",
+            "380203"
+          ],
+          "number": "4133",
+          "uid": "44415824"
+        },
+        "free_bikes": 4,
+        "id": "8f0ac5dab793cab97c2b62e91c304bd5",
+        "latitude": 50.10225,
+        "longitude": 8.67617,
+        "name": "D\u00fcrerstr./ Hans-Thoma-Str.",
+        "timestamp": "2022-12-17T16:30:55.105000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381418",
+            "381327",
+            "381251",
+            "381237",
+            "380936",
+            "380609",
+            "380590"
+          ],
+          "number": "4134",
+          "uid": "44415933"
+        },
+        "free_bikes": 7,
+        "id": "18d27b3d272545bd0ac42e02537d25c5",
+        "latitude": 50.09429,
+        "longitude": 8.67141,
+        "name": "Stresemannallee",
+        "timestamp": "2022-12-17T16:30:55.106000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381052",
+            "380956",
+            "380868",
+            "380819",
+            "380767",
+            "380285"
+          ],
+          "number": "4135",
+          "uid": "44416016"
+        },
+        "free_bikes": 6,
+        "id": "a95bff53bab1b81eb4672c79e2fd96e1",
+        "latitude": 50.08939,
+        "longitude": 8.6712,
+        "name": "M\u00f6rfelder Landstr./ Stresemannallee",
+        "timestamp": "2022-12-17T16:30:55.107000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380977",
+            "380772",
+            "380718",
+            "380516",
+            "380335",
+            "380321"
+          ],
+          "number": "4137",
+          "uid": "44416108"
+        },
+        "free_bikes": 6,
+        "id": "b076a9e780b7e2ee06dd39bf0b6289b7",
+        "latitude": 50.08702,
+        "longitude": 8.65067,
+        "name": "Triftstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.107000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381139",
+            "380950",
+            "380909",
+            "380894",
+            "380847",
+            "380253",
+            "380188",
+            "380132"
+          ],
+          "number": "4138",
+          "uid": "44416171"
+        },
+        "free_bikes": 8,
+        "id": "b5d731ec5331144ee03ac261883572e5",
+        "latitude": 50.08334,
+        "longitude": 8.65156,
+        "name": "Rennbahn",
+        "timestamp": "2022-12-17T16:30:55.108000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381111",
+            "380965",
+            "380875",
+            "380575",
+            "380419",
+            "380310"
+          ],
+          "number": "4140",
+          "uid": "44416336"
+        },
+        "free_bikes": 6,
+        "id": "3443deece63519c095b16f40b43275ca",
+        "latitude": 50.10195,
+        "longitude": 8.70007,
+        "name": "M\u00fchlberg",
+        "timestamp": "2022-12-17T16:30:55.109000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381153",
+            "380831",
+            "380422",
+            "380299"
+          ],
+          "number": "4159",
+          "uid": "44418157"
+        },
+        "free_bikes": 4,
+        "id": "ce1122e3ddd3eb888d210413f2be8144",
+        "latitude": 50.10443,
+        "longitude": 8.70341,
+        "name": "Zum Schlegelhof",
+        "timestamp": "2022-12-17T16:30:55.110000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380737",
+            "380653",
+            "380594",
+            "380413"
+          ],
+          "number": "4163",
+          "uid": "44418631"
+        },
+        "free_bikes": 4,
+        "id": "16ee8f0aa061f357b989b3da6d98d54b",
+        "latitude": 50.10024,
+        "longitude": 8.72443,
+        "name": "Buchrainplatz",
+        "timestamp": "2022-12-17T16:30:55.110000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380991",
+            "380935",
+            "380855",
+            "380846",
+            "380464",
+            "380382",
+            "380212",
+            "380026"
+          ],
+          "number": "4164",
+          "uid": "44418770"
+        },
+        "free_bikes": 8,
+        "id": "551a36552b1c854d07d8f8ea3a0f1f88",
+        "latitude": 50.10839,
+        "longitude": 8.70618,
+        "name": "Hafenpark",
+        "timestamp": "2022-12-17T16:30:55.111000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380963",
+            "380282",
+            "380198",
+            "380135"
+          ],
+          "number": "4171",
+          "uid": "44419170"
+        },
+        "free_bikes": 4,
+        "id": "8606b6054717ac64623f14f5b9bf8126",
+        "latitude": 50.11593,
+        "longitude": 8.72487,
+        "name": "Hanauer Landstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.112000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380796",
+            "380589",
+            "380541"
+          ],
+          "number": "4172",
+          "uid": "44419261"
+        },
+        "free_bikes": 3,
+        "id": "6a18525a99fb459d25265769ed3b3f1e",
+        "latitude": 50.12465,
+        "longitude": 8.71399,
+        "name": "Saalburgallee/Wittelsbacherallee",
+        "timestamp": "2022-12-17T16:30:55.113000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381438",
+            "381325"
+          ],
+          "number": "4173",
+          "uid": "44419709"
+        },
+        "free_bikes": 2,
+        "id": "c7e51f4ed5e8897f4523f97e31bf04f9",
+        "latitude": 50.13903,
+        "longitude": 8.69861,
+        "name": "Friedberger Landstra\u00dfe/Dortelweiler Str.",
+        "timestamp": "2022-12-17T16:30:55.113000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381426",
+            "381276",
+            "381220",
+            "380695",
+            "380639",
+            "380475",
+            "381515",
+            "380339",
+            "380297",
+            "380234",
+            "380081"
+          ],
+          "number": "4175",
+          "uid": "44419761"
+        },
+        "free_bikes": 11,
+        "id": "4b3cb5e9e69b2ccb57c1ef7c65787604",
+        "latitude": 50.12951,
+        "longitude": 8.62247,
+        "name": "Ludwig-Landmann-Str./Am Industriehof",
+        "timestamp": "2022-12-17T16:30:55.114000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381051",
+            "380323"
+          ],
+          "number": "4174",
+          "uid": "44419957"
+        },
+        "free_bikes": 2,
+        "id": "bfa03d356bc381f63244fde3ac138aae",
+        "latitude": 50.12857,
+        "longitude": 8.62948,
+        "name": "Am Industriehof",
+        "timestamp": "2022-12-17T16:30:55.115000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381306",
+            "381286",
+            "381134",
+            "380982",
+            "380782",
+            "380773",
+            "380652",
+            "380574",
+            "380502",
+            "380491",
+            "380444",
+            "380326",
+            "380306",
+            "380166",
+            "380115"
+          ],
+          "number": "4176",
+          "uid": "44420048"
+        },
+        "free_bikes": 15,
+        "id": "b250726e1fd420db09ecfa77363710b7",
+        "latitude": 50.12398,
+        "longitude": 8.6076,
+        "name": "R\u00f6delheim",
+        "timestamp": "2022-12-17T16:30:55.115000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381451",
+            "381303",
+            "381285",
+            "381088",
+            "380899",
+            "380874",
+            "380691",
+            "380493"
+          ],
+          "number": "4179",
+          "uid": "44420246"
+        },
+        "free_bikes": 8,
+        "id": "200658142c6b9d2a46bf5eaee20cc1fb",
+        "latitude": 50.113,
+        "longitude": 8.66196,
+        "name": "Westendplatz",
+        "timestamp": "2022-12-17T16:30:55.117000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381414",
+            "381406",
+            "381354",
+            "380915"
+          ],
+          "number": "4181",
+          "uid": "44420379"
+        },
+        "free_bikes": 4,
+        "id": "83735ba67ca4eaf4a21756231948ca74",
+        "latitude": 50.10783,
+        "longitude": 8.6242,
+        "name": "Europaviertel West",
+        "timestamp": "2022-12-17T16:30:55.118000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381209",
+            "380720",
+            "380678",
+            "380269"
+          ],
+          "number": "4183",
+          "uid": "44446002"
+        },
+        "free_bikes": 4,
+        "id": "977d1fa0cc2eb97615d274ecaddede61",
+        "latitude": 50.10421,
+        "longitude": 8.63548,
+        "name": "Frankenallee/Schwalbacher Str.",
+        "timestamp": "2022-12-17T16:30:55.118000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381330",
+            "381274",
+            "381027",
+            "380789",
+            "380435",
+            "380182"
+          ],
+          "number": "4187",
+          "uid": "44446198"
+        },
+        "free_bikes": 6,
+        "id": "1ad183d26633b93704ca30c3aec2cbcc",
+        "latitude": 50.1129,
+        "longitude": 8.61866,
+        "name": "Rebstockbad",
+        "timestamp": "2022-12-17T16:30:55.120000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380953",
+            "380334",
+            "380189"
+          ],
+          "number": "4189",
+          "uid": "44446292"
+        },
+        "free_bikes": 3,
+        "id": "cecb7d14633a359c99fc8d65b99d18fa",
+        "latitude": 50.11947,
+        "longitude": 8.71194,
+        "name": "Rh\u00f6nstra\u00dfe/Luxemburgerallee",
+        "timestamp": "2022-12-17T16:30:55.121000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381432",
+            "381361",
+            "381296",
+            "380468"
+          ],
+          "number": "4190",
+          "uid": "44446453"
+        },
+        "free_bikes": 4,
+        "id": "81ad7ae0b6b4530c7def1f547c53d55f",
+        "latitude": 50.12003,
+        "longitude": 8.70526,
+        "name": "Habsburger-/Wittelsbacherallee",
+        "timestamp": "2022-12-17T16:30:55.121000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381018",
+            "380480"
+          ],
+          "number": "4207",
+          "uid": "44446590"
+        },
+        "free_bikes": 2,
+        "id": "9d8f8c76769500776df74bc65deb1cb2",
+        "latitude": 50.136596,
+        "longitude": 8.684196,
+        "name": "Eckenheimer Landstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.122000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381349",
+            "381273",
+            "381256",
+            "380824"
+          ],
+          "number": "4208",
+          "uid": "44446639"
+        },
+        "free_bikes": 4,
+        "id": "d6fcaf4d5a8651bd4d2fac6a540ff249",
+        "latitude": 50.15694,
+        "longitude": 8.65621,
+        "name": "Am Wei\u00dfen Stein",
+        "timestamp": "2022-12-17T16:30:55.123000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380330",
+            "380311",
+            "380013"
+          ],
+          "number": "4214",
+          "uid": "44446728"
+        },
+        "free_bikes": 3,
+        "id": "64b2f444ea9f0ed04ffd75753445858b",
+        "latitude": 50.14792,
+        "longitude": 8.66703,
+        "name": "H\u00fcgelstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.124000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381206",
+            "380840",
+            "380666",
+            "380638",
+            "380558",
+            "380317",
+            "380257",
+            "380225"
+          ],
+          "number": "4216",
+          "uid": "44446792"
+        },
+        "free_bikes": 8,
+        "id": "4edc797fbb8d55c78f12f7009759c41a",
+        "latitude": 50.09885,
+        "longitude": 8.63388,
+        "name": "Pfarrer-Perabo-Platz",
+        "timestamp": "2022-12-17T16:30:55.125000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381025",
+            "380932",
+            "380722",
+            "380366",
+            "380005"
+          ],
+          "number": "4219",
+          "uid": "44446893"
+        },
+        "free_bikes": 5,
+        "id": "160dc3ef57dc28e8e440f22e8c6a3a81",
+        "latitude": 50.109028,
+        "longitude": 8.651361,
+        "name": "Europa-Allee/Den Haager Str.",
+        "timestamp": "2022-12-17T16:30:55.125000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381398",
+            "380560",
+            "380532",
+            "380466",
+            "380401",
+            "380354"
+          ],
+          "number": "4220",
+          "uid": "44446984"
+        },
+        "free_bikes": 6,
+        "id": "690e1106547a97bdaf1f8bcc12835e72",
+        "latitude": 50.11817,
+        "longitude": 8.66327,
+        "name": "Odina-Bott-Platz",
+        "timestamp": "2022-12-17T16:30:55.126000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381473",
+            "381449",
+            "381279",
+            "381272",
+            "380049"
+          ],
+          "number": "4177",
+          "uid": "44420116"
+        },
+        "free_bikes": 5,
+        "id": "dd8f642dc113a08cd9aef39de6de3bb6",
+        "latitude": 50.14791,
+        "longitude": 8.62408,
+        "name": "Niddaufer/Praunheimer Landstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.116000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380263",
+            "380098"
+          ],
+          "number": "4224",
+          "uid": "45946888"
+        },
+        "free_bikes": 2,
+        "id": "c3f2bd7f515a2503256aadc2028387f0",
+        "latitude": 50.144898,
+        "longitude": 8.607554,
+        "name": "Heerstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.128000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381236",
+            "380815",
+            "380806",
+            "380774",
+            "380674",
+            "380605",
+            "380557",
+            "380236",
+            "380040"
+          ],
+          "number": "4226",
+          "uid": "45947172"
+        },
+        "free_bikes": 9,
+        "id": "8dfb79f5ebbfdffebc1c803718b39038",
+        "latitude": 50.150811,
+        "longitude": 8.688662,
+        "name": "Gie\u00dfener Stra\u00dfe/ Ronneburgstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.128000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381355",
+            "381017",
+            "380770",
+            "380715",
+            "380526",
+            "380102"
+          ],
+          "number": "4274",
+          "uid": "45947513"
+        },
+        "free_bikes": 6,
+        "id": "d05c178df0b0692fb2e813791569a796",
+        "latitude": 50.14372,
+        "longitude": 8.69261,
+        "name": "Gie\u00dfener Stra\u00dfe/ Marbachweg",
+        "timestamp": "2022-12-17T16:30:55.129000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380980",
+            "380947"
+          ],
+          "number": "4275",
+          "uid": "45947695"
+        },
+        "free_bikes": 2,
+        "id": "cc401205137906f43fba95db23a61de2",
+        "latitude": 50.13512,
+        "longitude": 8.71222,
+        "name": "Seckbacher Landstra\u00dfe/ Nu\u00dfbaumstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.130000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381009",
+            "380405",
+            "380403",
+            "380352"
+          ],
+          "number": "4284",
+          "uid": "45947832"
+        },
+        "free_bikes": 4,
+        "id": "f40b6c6c27afdb62f34a27b119d0d776",
+        "latitude": 50.09936,
+        "longitude": 8.71482,
+        "name": "Balduinstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.131000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381126",
+            "380356"
+          ],
+          "number": "4287",
+          "uid": "45948027"
+        },
+        "free_bikes": 2,
+        "id": "eb3337faf70156e71e21d438effc5644",
+        "latitude": 50.09888,
+        "longitude": 8.69304,
+        "name": "Hainer Weg/ Geleitsstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.132000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381456",
+            "381092",
+            "381029",
+            "380996",
+            "380903",
+            "380760",
+            "380437",
+            "380201",
+            "380108"
+          ],
+          "number": "4294",
+          "uid": "45948224"
+        },
+        "free_bikes": 9,
+        "id": "387c584dca9079813c8a640909a12aaa",
+        "latitude": 50.08451,
+        "longitude": 8.62979,
+        "name": "Goldsteinstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.133000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381489",
+            "381223",
+            "381161",
+            "381073",
+            "380677",
+            "380581",
+            "380277"
+          ],
+          "number": "4299",
+          "uid": "46007839"
+        },
+        "free_bikes": 7,
+        "id": "fa7424ff20907d905ac95e6b69e9d154",
+        "latitude": 50.114842,
+        "longitude": 8.692379,
+        "name": "Zeil/ Breite Gasse",
+        "timestamp": "2022-12-17T16:30:55.133000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381469",
+            "381424",
+            "381345",
+            "381299",
+            "380687",
+            "380641",
+            "380576",
+            "380568",
+            "380094",
+            "380003"
+          ],
+          "number": "4192",
+          "uid": "5661895"
+        },
+        "free_bikes": 10,
+        "id": "3c2e50bc4624e3f832cdf18ef7362d9f",
+        "latitude": 50.109034,
+        "longitude": 8.68156,
+        "name": "Mainkai / Eiserner Steg",
+        "timestamp": "2022-12-17T16:30:55.073000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381412",
+            "381243",
+            "380803",
+            "380635",
+            "380584",
+            "380223",
+            "380211",
+            "380180",
+            "380084"
+          ],
+          "number": "4300",
+          "uid": "47689130"
+        },
+        "free_bikes": 9,
+        "id": "27c6cac0a53a05fad6163242f4130011",
+        "latitude": 50.118091,
+        "longitude": 8.685679,
+        "name": "Bleichstra\u00dfe/ Alte Gasse",
+        "timestamp": "2022-12-17T16:30:55.134000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381413",
+            "381192",
+            "380853",
+            "380804",
+            "380472",
+            "380239"
+          ],
+          "number": "4203",
+          "uid": "4919013"
+        },
+        "free_bikes": 6,
+        "id": "e7f3d54681cca4a650b099fb50791aad",
+        "latitude": 50.131246,
+        "longitude": 8.645972,
+        "name": "Ginnheimer Landstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.052000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381356",
+            "381007",
+            "380759",
+            "380693",
+            "380593",
+            "380504",
+            "380286"
+          ],
+          "number": "4221",
+          "uid": "4919756"
+        },
+        "free_bikes": 7,
+        "id": "89ff27c4e3aae8ce5bd89770ddf3dc2f",
+        "latitude": 50.123495,
+        "longitude": 8.658509,
+        "name": "Palmengarten",
+        "timestamp": "2022-12-17T16:30:55.062000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            ""
+          ],
+          "number": "4301",
+          "uid": "48860682"
+        },
+        "free_bikes": 0,
+        "id": "df942d62e6051781cffa3a9055fee208",
+        "latitude": 50.130854,
+        "longitude": 8.645409,
+        "name": "Ginnheimer Landstra\u00dfe Bus",
+        "timestamp": "2022-12-17T16:30:55.135000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381275",
+            "381247",
+            "381194",
+            "381050",
+            "380533",
+            "380380",
+            "380328",
+            "380220"
+          ],
+          "number": "4260",
+          "uid": "46"
+        },
+        "free_bikes": 8,
+        "id": "7434eec869f0004f24ce4710bc06efaa",
+        "latitude": 50.099792,
+        "longitude": 8.68488,
+        "name": "S\u00fcdbahnhof / Hedderichstr.",
+        "timestamp": "2022-12-17T16:30:55.022000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381458",
+            "380838",
+            "380792",
+            "380726",
+            "380082"
+          ],
+          "number": "4139",
+          "uid": "60493281"
+        },
+        "free_bikes": 5,
+        "id": "c6de172917d1800d7a9672c5ac46109b",
+        "latitude": 50.114746,
+        "longitude": 8.683159,
+        "name": "Stiftstra\u00dfe/ Zeil",
+        "timestamp": "2022-12-17T16:30:55.136000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380517",
+            "380438",
+            "380244",
+            "380136",
+            "380092"
+          ],
+          "number": "4185",
+          "uid": "44446093"
+        },
+        "free_bikes": 5,
+        "id": "8ec0678aebc200f7eaf96e40d4338657",
+        "latitude": 50.108266,
+        "longitude": 8.643767,
+        "name": "Europa-Allee/Lissaboner Str.",
+        "timestamp": "2022-12-17T16:30:55.119000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381344",
+            "381311",
+            "380852",
+            "380644",
+            "380146",
+            "380052"
+          ],
+          "number": "4236",
+          "uid": "67476856"
+        },
+        "free_bikes": 6,
+        "id": "1ff9045809bc6f3fdd32c9de610a5c9c",
+        "latitude": 50.105729,
+        "longitude": 8.666348,
+        "name": "Le Meridien",
+        "timestamp": "2022-12-17T16:30:55.137000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381004",
+            "380473",
+            "380428",
+            "380376"
+          ],
+          "number": "4233",
+          "uid": "28208283"
+        },
+        "free_bikes": 4,
+        "id": "0fcd70c137412c1d6ab7db6bda7cc1d6",
+        "latitude": 50.110709,
+        "longitude": 8.675223,
+        "name": "Kaiserplatz",
+        "timestamp": "2022-12-17T16:30:55.099000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381333",
+            "381246",
+            "381181",
+            "380747",
+            "380408",
+            "380393",
+            "380186"
+          ],
+          "number": "4277",
+          "uid": "73564537"
+        },
+        "free_bikes": 7,
+        "id": "b1f9ac466e7cdde1287fe0c53c7d2cc1",
+        "latitude": 50.125966,
+        "longitude": 8.629459,
+        "name": "Neue B\u00f6rsenstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.137000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381347",
+            "381067",
+            "380957",
+            "380642"
+          ],
+          "number": "4302",
+          "uid": "73565266"
+        },
+        "free_bikes": 4,
+        "id": "0343c84803c8bde36a0a51042627efb5",
+        "latitude": 50.116049,
+        "longitude": 8.632647,
+        "name": "Commerzbank Digital Campus",
+        "timestamp": "2022-12-17T16:30:55.138000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381324",
+            "381138",
+            "380721",
+            "380416",
+            "380308",
+            "380301",
+            "380187"
+          ],
+          "number": "4303",
+          "uid": "73565473"
+        },
+        "free_bikes": 7,
+        "id": "3678ee5529b15938a08b02a7c2d1ee39",
+        "latitude": 50.106464,
+        "longitude": 8.655692,
+        "name": "Adam-Riese-Platz",
+        "timestamp": "2022-12-17T16:30:55.139000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381019"
+          ],
+          "number": "4305",
+          "uid": "80825229"
+        },
+        "free_bikes": 1,
+        "id": "8ba2355adbc69dd73ca9fe5c4d3852b5",
+        "latitude": 50.114077,
+        "longitude": 8.679167,
+        "name": "Hauptwache Nord",
+        "timestamp": "2022-12-17T16:30:55.140000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381421",
+            "381102",
+            "381097",
+            "381041",
+            "380978",
+            "380729",
+            "380629",
+            "380484",
+            "380337",
+            "380319",
+            "380139",
+            "380047"
+          ],
+          "number": "4126",
+          "uid": "15857245"
+        },
+        "free_bikes": 12,
+        "id": "fa0bb98738a6cd30a7a3f8b0b652389b",
+        "latitude": 50.163838,
+        "longitude": 8.634911,
+        "name": "Heddernheimer Landstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.097000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380828",
+            "380797",
+            "380788",
+            "380733",
+            "380372",
+            "380305",
+            "380053",
+            "380045"
+          ],
+          "number": "4312",
+          "uid": "105203973"
+        },
+        "free_bikes": 8,
+        "id": "a558b048ffba97dff5d94d634420681b",
+        "latitude": 50.091734,
+        "longitude": 8.691039,
+        "name": "Leonardo Royal Hotel",
+        "timestamp": "2022-12-17T16:30:55.141000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381240",
+            "380595",
+            "380384",
+            "380364"
+          ],
+          "number": "4195",
+          "uid": "5661918"
+        },
+        "free_bikes": 4,
+        "id": "7f055f72bc90f6b8754397b167d77f79",
+        "latitude": 50.103496,
+        "longitude": 8.644678,
+        "name": "Galluswarte/ S-Bahn",
+        "timestamp": "2022-12-17T16:30:55.075000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381407",
+            "380974",
+            "380577",
+            "380550",
+            "380254"
+          ],
+          "number": "4161",
+          "uid": "107149989"
+        },
+        "free_bikes": 5,
+        "id": "6c1dae1bab738048b448b72ec7a8941d",
+        "latitude": 50.107148,
+        "longitude": 8.732929,
+        "name": "Kaiserleistra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.142000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380879",
+            "380794",
+            "380668",
+            "380386",
+            "380228"
+          ],
+          "number": "4162",
+          "uid": "107154149"
+        },
+        "free_bikes": 5,
+        "id": "589426786feab7080c345c1182b3ab95",
+        "latitude": 50.103077,
+        "longitude": 8.679658,
+        "name": "Schweizer Stra\u00dfe/Gartenstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.142000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381338",
+            "381090",
+            "381023",
+            "380373",
+            "380275",
+            "380229"
+          ],
+          "number": "4168",
+          "uid": "107155056"
+        },
+        "free_bikes": 6,
+        "id": "03190aad59331951f5cacf27116c5b87",
+        "latitude": 50.113274,
+        "longitude": 8.68404,
+        "name": "Tugendbrunnen",
+        "timestamp": "2022-12-17T16:30:55.143000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380895",
+            "380856",
+            "380481",
+            "380360",
+            "380258"
+          ],
+          "number": "4169",
+          "uid": "108300725"
+        },
+        "free_bikes": 5,
+        "id": "bcac264bd778238810d506ca3749b771",
+        "latitude": 50.078394,
+        "longitude": 8.653858,
+        "name": "Oberforsthaus",
+        "timestamp": "2022-12-17T16:30:55.144000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381264",
+            "380994"
+          ],
+          "number": "4199",
+          "uid": "108305380"
+        },
+        "free_bikes": 2,
+        "id": "111ddc1ab5ecdb8a5534b97fee804514",
+        "latitude": 50.101662,
+        "longitude": 8.686432,
+        "name": "Martha-Wertheimer-Platz",
+        "timestamp": "2022-12-17T16:30:55.145000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381452",
+            "381233",
+            "381163",
+            "381160",
+            "381000",
+            "380937"
+          ],
+          "number": "4232",
+          "uid": "108627060"
+        },
+        "free_bikes": 6,
+        "id": "716c94805c08d17f892e2e1d39e977ed",
+        "latitude": 50.095255,
+        "longitude": 8.681896,
+        "name": "Oppenheimer Landstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.146000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381332",
+            "381171",
+            "381059",
+            "381518",
+            "380833",
+            "380336",
+            "380221"
+          ],
+          "number": "4316",
+          "uid": "109165551"
+        },
+        "free_bikes": 7,
+        "id": "7a009e2660435dfecf5797fd09938fe3",
+        "latitude": 50.102925,
+        "longitude": 8.570445,
+        "name": "S-Bahnhof Frankfurt Nied",
+        "timestamp": "2022-12-17T16:30:55.149000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381302",
+            "380631",
+            "380461"
+          ],
+          "number": "4319",
+          "uid": "109169975"
+        },
+        "free_bikes": 3,
+        "id": "f19902d6a70ceb7608d4c80cdf7241e3",
+        "latitude": 50.125339,
+        "longitude": 8.611482,
+        "name": "Alt-R\u00f6delheim",
+        "timestamp": "2022-12-17T16:30:55.150000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381304",
+            "380878",
+            "380812",
+            "380754",
+            "380746",
+            "380218"
+          ],
+          "number": "4320",
+          "uid": "109170512"
+        },
+        "free_bikes": 6,
+        "id": "f3c480982aca6b1412883bb57dbf688d",
+        "latitude": 50.107295,
+        "longitude": 8.544387,
+        "name": "Klinikum H\u00f6chst",
+        "timestamp": "2022-12-17T16:30:55.151000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381388",
+            "381078",
+            "381048",
+            "380863",
+            "380392",
+            "380237"
+          ],
+          "number": "4321",
+          "uid": "109170896"
+        },
+        "free_bikes": 6,
+        "id": "b916983fe54d260ebd70f7361addd61d",
+        "latitude": 50.103467,
+        "longitude": 8.542084,
+        "name": "H\u00f6chst Bahnhof Nord",
+        "timestamp": "2022-12-17T16:30:55.152000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380761",
+            "380490",
+            "380399",
+            "380362",
+            "380327"
+          ],
+          "number": "42001",
+          "uid": "109184498"
+        },
+        "free_bikes": 5,
+        "id": "43c7b00bdbb7be7dbcb2741341844eba",
+        "latitude": 50.10285,
+        "longitude": 8.551773,
+        "name": "Zuckschwerdtstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.154000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381402",
+            "381310",
+            "381105",
+            "380692",
+            "380525",
+            "381509"
+          ],
+          "number": "4313",
+          "uid": "109164332"
+        },
+        "free_bikes": 6,
+        "id": "ace3aef085649dac9d64880ccdf32957",
+        "latitude": 50.101951,
+        "longitude": 8.542422,
+        "name": "H\u00f6chst Bahnhof S\u00fcd",
+        "timestamp": "2022-12-17T16:30:55.147000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381309",
+            "381305",
+            "380940",
+            "380781",
+            "380607"
+          ],
+          "number": "4315",
+          "uid": "109165182"
+        },
+        "free_bikes": 5,
+        "id": "51669eb1b3f81566ccc91612a59999f3",
+        "latitude": 50.101825,
+        "longitude": 8.560215,
+        "name": "Tillystra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.148000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381042",
+            "380912",
+            "380592",
+            "380562",
+            "380485"
+          ],
+          "number": "4314",
+          "uid": "109164755"
+        },
+        "free_bikes": 5,
+        "id": "8b6c37f7163ca5cccb3754f422210829",
+        "latitude": 50.10025,
+        "longitude": 8.550018,
+        "name": "Bolongarostra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.147000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381475",
+            "381212",
+            "380930",
+            "380750",
+            "380714",
+            "380657",
+            "380637",
+            "380591",
+            "380459",
+            "380426",
+            "380388"
+          ],
+          "number": "42002",
+          "uid": "110441802"
+        },
+        "free_bikes": 11,
+        "id": "94dd2cd410e0fa23a3fa74e843eec209",
+        "latitude": 50.125578,
+        "longitude": 8.70722,
+        "name": "Berger Stra\u00dfe/ Spessartstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.155000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380945",
+            "380870",
+            "380739",
+            "380643",
+            "380628",
+            "380569",
+            "380552",
+            "380315",
+            "380247",
+            "380140"
+          ],
+          "number": "42003",
+          "uid": "110740713"
+        },
+        "free_bikes": 10,
+        "id": "6446f13ba6f79cfc79d232247f2d1db6",
+        "latitude": 50.104648,
+        "longitude": 8.661589,
+        "name": "Fernbusterminal",
+        "timestamp": "2022-12-17T16:30:55.155000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381289",
+            "380890",
+            "380735",
+            "380570"
+          ],
+          "number": "42000",
+          "uid": "109175011"
+        },
+        "free_bikes": 4,
+        "id": "79c1cc6745d563b310aba072c178b7db",
+        "latitude": 50.094019,
+        "longitude": 8.607409,
+        "name": "Griesheim S-Bahnhof",
+        "timestamp": "2022-12-17T16:30:55.153000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380990",
+            "380621",
+            "380302",
+            "380266"
+          ],
+          "number": "4136",
+          "uid": "9843503"
+        },
+        "free_bikes": 4,
+        "id": "6a483f6bcc99c5a4c9762c4c43421681",
+        "latitude": 50.080856,
+        "longitude": 8.636638,
+        "name": "Frankfurt - Niederrad",
+        "timestamp": "2022-12-17T16:30:55.091000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380876",
+            "380793"
+          ],
+          "number": "4281",
+          "uid": "5327078"
+        },
+        "free_bikes": 2,
+        "id": "b5eb23531b0cb20a6a89fa5f84455861",
+        "latitude": 50.131439,
+        "longitude": 8.692573,
+        "name": "Kleiststra\u00dfe / Gleimstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.070000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381436",
+            "381202",
+            "381177",
+            "380477",
+            "380351",
+            "380324",
+            "380288"
+          ],
+          "number": "42005",
+          "uid": "122426924"
+        },
+        "free_bikes": 7,
+        "id": "bc79df5ec9d4318e3803a07d905b0e0a",
+        "latitude": 50.123495,
+        "longitude": 8.665041,
+        "name": "Mitscherlichplatz",
+        "timestamp": "2022-12-17T16:30:55.156000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381199",
+            "380972",
+            "380730",
+            "380662",
+            "380600",
+            "380410",
+            "380238",
+            "380224"
+          ],
+          "number": "42006",
+          "uid": "122427142"
+        },
+        "free_bikes": 8,
+        "id": "81a5578a10c4bdd13f7620988b5e582c",
+        "latitude": 50.121288,
+        "longitude": 8.663727,
+        "name": "Friedrichstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.157000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381401",
+            "381217",
+            "381131",
+            "381116",
+            "381035",
+            "380177"
+          ],
+          "number": "42007",
+          "uid": "122427739"
+        },
+        "free_bikes": 6,
+        "id": "0760462310332aa673ee5825bbb4ba38",
+        "latitude": 50.128404,
+        "longitude": 8.684302,
+        "name": "Glauburgstra\u00dfe (U-Bahn)",
+        "timestamp": "2022-12-17T16:30:55.158000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381293",
+            "380971",
+            "380779",
+            "380752",
+            "380260"
+          ],
+          "number": "42008",
+          "uid": "122428101"
+        },
+        "free_bikes": 5,
+        "id": "227d4793d64fe5755dc5a976fc399be5",
+        "latitude": 50.129273,
+        "longitude": 8.68392,
+        "name": "Eckenheimer Landstr./ Oeder Weg",
+        "timestamp": "2022-12-17T16:30:55.159000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381063",
+            "380342"
+          ],
+          "number": "42009",
+          "uid": "122428416"
+        },
+        "free_bikes": 2,
+        "id": "99985825d56144d4c91596727edff4ac",
+        "latitude": 50.12376,
+        "longitude": 8.681221,
+        "name": "S\u00f6mmerringstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.160000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381260",
+            "380885",
+            "380683",
+            "380510"
+          ],
+          "number": "42010",
+          "uid": "122428684"
+        },
+        "free_bikes": 4,
+        "id": "6ad81d446fd62e38c4600faeb42f4d78",
+        "latitude": 50.123236,
+        "longitude": 8.675388,
+        "name": "Hansaallee",
+        "timestamp": "2022-12-17T16:30:55.160000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380417",
+            "380219",
+            "380124"
+          ],
+          "number": "42011",
+          "uid": "122428983"
+        },
+        "free_bikes": 3,
+        "id": "bfbc715818e23786b8419f707887a859",
+        "latitude": 50.121107,
+        "longitude": 8.672347,
+        "name": "Westend Carree",
+        "timestamp": "2022-12-17T16:30:55.161000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381453",
+            "381127",
+            "381056",
+            "380958",
+            "380946",
+            "380743",
+            "380457",
+            "380283"
+          ],
+          "number": "42012",
+          "uid": "122429336"
+        },
+        "free_bikes": 8,
+        "id": "8f36e81d556fb72574393e5e084040ac",
+        "latitude": 50.121751,
+        "longitude": 8.670169,
+        "name": "Reuterweg/ Gr\u00fcneburgweg",
+        "timestamp": "2022-12-17T16:30:55.162000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380872",
+            "380818",
+            "380790",
+            "380304",
+            "380265",
+            "380261"
+          ],
+          "number": "42013",
+          "uid": "122429582"
+        },
+        "free_bikes": 6,
+        "id": "fec52d2bbe464c52c08eab6cac37161a",
+        "latitude": 50.11879,
+        "longitude": 8.671081,
+        "name": "Reuterweg/ G\u00e4rtnerweg",
+        "timestamp": "2022-12-17T16:30:55.163000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380919",
+            "380882",
+            "380798",
+            "380791",
+            "380696",
+            "380508",
+            "380434",
+            "380359",
+            "380280",
+            "380196",
+            "380168"
+          ],
+          "number": "42014",
+          "uid": "122430148"
+        },
+        "free_bikes": 11,
+        "id": "a7a86973178b71f77c3e3fdb73ba7d88",
+        "latitude": 50.118,
+        "longitude": 8.679296,
+        "name": "Eschenheimer Tor Nord",
+        "timestamp": "2022-12-17T16:30:55.164000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381499",
+            "381464",
+            "381341",
+            "381318",
+            "380741",
+            "381502",
+            "380553",
+            "380294"
+          ],
+          "number": "42015",
+          "uid": "122430526"
+        },
+        "free_bikes": 8,
+        "id": "cd92cd03310127a893a79d785e521fa3",
+        "latitude": 50.122207,
+        "longitude": 8.690785,
+        "name": "Friedberger Landstra\u00dfe/ Scheffelstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.164000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381140",
+            "380374",
+            "380272",
+            "380255"
+          ],
+          "number": "42016",
+          "uid": "122430976"
+        },
+        "free_bikes": 4,
+        "id": "d46d8b9306991fc0d4606ee087a59200",
+        "latitude": 50.119098,
+        "longitude": 8.683935,
+        "name": "Unterweg",
+        "timestamp": "2022-12-17T16:30:55.165000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381216",
+            "381168",
+            "381108",
+            "380613",
+            "380563",
+            "380206"
+          ],
+          "number": "42017",
+          "uid": "122432016"
+        },
+        "free_bikes": 6,
+        "id": "adf3bb47a63625ae1664ed2fd4881bb0",
+        "latitude": 50.115728,
+        "longitude": 8.67707,
+        "name": "B\u00f6rsenstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.166000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381322",
+            "381259",
+            "380981",
+            "380861",
+            "380421",
+            "380245",
+            "380167",
+            "380157"
+          ],
+          "number": "42018",
+          "uid": "122433189"
+        },
+        "free_bikes": 8,
+        "id": "8a92dea949492581e786aae665eb5a3a",
+        "latitude": 50.114224,
+        "longitude": 8.676373,
+        "name": "Fressgass",
+        "timestamp": "2022-12-17T16:30:55.167000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381478",
+            "381383",
+            "381382",
+            "381366",
+            "380633",
+            "380534"
+          ],
+          "number": "42019",
+          "uid": "122433688"
+        },
+        "free_bikes": 6,
+        "id": "94031d5bc6764d10fd207de0142dbd86",
+        "latitude": 50.110994,
+        "longitude": 8.672354,
+        "name": "Taunustor",
+        "timestamp": "2022-12-17T16:30:55.167000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381124",
+            "381066",
+            "380832",
+            "380555",
+            "380513"
+          ],
+          "number": "42020",
+          "uid": "122434231"
+        },
+        "free_bikes": 5,
+        "id": "b391c622111850b305930d9d2a5563e6",
+        "latitude": 50.109419,
+        "longitude": 8.659893,
+        "name": "Platz der Republik",
+        "timestamp": "2022-12-17T16:30:55.168000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381101",
+            "381060",
+            "381022",
+            "380934",
+            "380632",
+            "380571",
+            "380455",
+            "380046"
+          ],
+          "number": "42021",
+          "uid": "122661300"
+        },
+        "free_bikes": 8,
+        "id": "1101b46e217dfb4053a45cd5596bae8d",
+        "latitude": 50.107417,
+        "longitude": 8.658712,
+        "name": "Niddastra\u00dfe/ Ludwigstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.169000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            ""
+          ],
+          "number": "42022",
+          "uid": "122661640"
+        },
+        "free_bikes": 0,
+        "id": "d05cf8a219f90c9738fe21190daca491",
+        "latitude": 50.10492,
+        "longitude": 8.670623,
+        "name": "Holbeinsteg/ Windm\u00fchlstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.170000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381471",
+            "381336",
+            "381031",
+            "380775",
+            "380626",
+            "380404",
+            "380100"
+          ],
+          "number": "42023",
+          "uid": "122661787"
+        },
+        "free_bikes": 7,
+        "id": "7fa5e91c63f2eeec7011840db925c9fa",
+        "latitude": 50.107721,
+        "longitude": 8.675842,
+        "name": "Untermainkai",
+        "timestamp": "2022-12-17T16:30:55.171000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381026",
+            "380897",
+            "380707",
+            "380688",
+            "380655",
+            "380492",
+            "380216"
+          ],
+          "number": "42024",
+          "uid": "122661969"
+        },
+        "free_bikes": 7,
+        "id": "a2be8359dc98ea6ecde6dcc4208ab425",
+        "latitude": 50.1074,
+        "longitude": 8.673028,
+        "name": "Untermainanlage",
+        "timestamp": "2022-12-17T16:30:55.172000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380612",
+            "380363",
+            "380249"
+          ],
+          "number": "42026",
+          "uid": "122662716"
+        },
+        "free_bikes": 3,
+        "id": "19fae1900614162fa28369b5278ae73c",
+        "latitude": 50.110062,
+        "longitude": 8.687561,
+        "name": "Fischerpl\u00e4tzchen",
+        "timestamp": "2022-12-17T16:30:55.173000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381308",
+            "380423"
+          ],
+          "number": "42027",
+          "uid": "122662804"
+        },
+        "free_bikes": 2,
+        "id": "2fadc52b76cda20c352d679026c8bea5",
+        "latitude": 50.1111,
+        "longitude": 8.692402,
+        "name": "Rechneigrabenstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.173000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381282"
+          ],
+          "number": "42028",
+          "uid": "122662922"
+        },
+        "free_bikes": 1,
+        "id": "f212bb0ce7a4c08d2194a01e2a593f52",
+        "latitude": 50.111751,
+        "longitude": 8.705386,
+        "name": "Ostbahnhof/ Sonnemannstr.",
+        "timestamp": "2022-12-17T16:30:55.174000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381427",
+            "381396",
+            "381125",
+            "380732",
+            "380719",
+            "380207"
+          ],
+          "number": "42029",
+          "uid": "122663081"
+        },
+        "free_bikes": 6,
+        "id": "ec1d37dc26b5c460a000e7fa0602dd0b",
+        "latitude": 50.112917,
+        "longitude": 8.699361,
+        "name": "R\u00fcckertstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.175000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380443",
+            "380181"
+          ],
+          "number": "42030",
+          "uid": "122663186"
+        },
+        "free_bikes": 2,
+        "id": "42b0da65f38c3685fa798b31d0ffa0f7",
+        "latitude": 50.117538,
+        "longitude": 8.708538,
+        "name": "Habsburgerallee",
+        "timestamp": "2022-12-17T16:30:55.176000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381416",
+            "381389",
+            "381353",
+            "380902",
+            "380344",
+            "380174",
+            "380037"
+          ],
+          "number": "42025",
+          "uid": "123243434"
+        },
+        "free_bikes": 7,
+        "id": "fd78af2117081ffddf10ad5470880b86",
+        "latitude": 50.106651,
+        "longitude": 8.649188,
+        "name": "Frankenallee/ Speyererstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.177000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381057",
+            "381020",
+            "381016",
+            "380197",
+            "380129"
+          ],
+          "number": "4318",
+          "uid": "109169466"
+        },
+        "free_bikes": 5,
+        "id": "f2f8e4e7e7810c0c7a289e3e3218178d",
+        "latitude": 50.098202,
+        "longitude": 8.567598,
+        "name": "Nied Kirche",
+        "timestamp": "2022-12-17T16:30:55.150000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381290",
+            "381221",
+            "380961",
+            "380887",
+            "380871",
+            "380705",
+            "380675",
+            "380355"
+          ],
+          "number": "4228",
+          "uid": "4919891"
+        },
+        "free_bikes": 8,
+        "id": "87664e1d208043b40359e2690e15891f",
+        "latitude": 50.129486,
+        "longitude": 8.692932,
+        "name": "Frankfurt University",
+        "timestamp": "2022-12-17T16:30:55.064000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "380960",
+            "380483",
+            "380322"
+          ],
+          "number": "42031",
+          "uid": "125919570"
+        },
+        "free_bikes": 3,
+        "id": "6376e6fe62168084ece163b4a7e0ae8f",
+        "latitude": 50.119915,
+        "longitude": 8.656615,
+        "name": "Palmengartenstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.178000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381077",
+            "381065",
+            "380906",
+            "380821",
+            "380785",
+            "380740",
+            "380681",
+            "380268",
+            "380243"
+          ],
+          "number": "42032",
+          "uid": "126998836"
+        },
+        "free_bikes": 9,
+        "id": "d51905448002e08999a726e6e3cb969c",
+        "latitude": 50.1001,
+        "longitude": 8.603677,
+        "name": "Waldschulstra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.178000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381292",
+            "380817",
+            "380766",
+            "380536",
+            "380447",
+            "380389",
+            "380290"
+          ],
+          "number": "42033",
+          "uid": "126999604"
+        },
+        "free_bikes": 7,
+        "id": "fb7b40378707d51bec4e9af1c091c957",
+        "latitude": 50.118415,
+        "longitude": 8.691974,
+        "name": "Berger Stra\u00dfe/ Hermesweg",
+        "timestamp": "2022-12-17T16:30:55.179000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381147",
+            "381053",
+            "380900",
+            "380278"
+          ],
+          "number": "42034",
+          "uid": "127000195"
+        },
+        "free_bikes": 4,
+        "id": "aa24ba6a7557ab0fe95508cdc887cc94",
+        "latitude": 50.11694,
+        "longitude": 8.686029,
+        "name": "Vilbeler Stra\u00dfe",
+        "timestamp": "2022-12-17T16:30:55.180000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381011",
+            "380843",
+            "380825",
+            "380809",
+            "380672",
+            "381508"
+          ],
+          "number": "42035",
+          "uid": "127638121"
+        },
+        "free_bikes": 6,
+        "id": "adb5532d15fd8e1945436ca5ddf9e6ed",
+        "latitude": 50.110956,
+        "longitude": 8.684713,
+        "name": "Domplatz",
+        "timestamp": "2022-12-17T16:30:55.181000Z"
+      },
+      {
+        "empty_slots": null,
+        "extra": {
+          "bike_uids": [
+            "381486",
+            "381485",
+            "381142",
+            "380864",
+            "380845",
+            "380827",
+            "380728",
+            "380694",
+            "380539",
+            "380496"
+          ],
+          "number": "4225",
+          "uid": "4919850"
+        },
+        "free_bikes": 10,
+        "id": "c1de186553c8cc290d9e88a47317c92f",
+        "latitude": 50.132017,
+        "longitude": 8.682909,
+        "name": "Deutsche Nationalbibliothek",
+        "timestamp": "2022-12-17T16:30:55.063000Z"
+      }
+    ]
+  }
+}
